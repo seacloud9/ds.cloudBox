@@ -1,0 +1,4 @@
+describe('controllers', () => {
+  let vm;
+
+});

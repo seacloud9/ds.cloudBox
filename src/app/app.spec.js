@@ -1,3 +1,0 @@
-describe( 'AppCtrl', function() {
-
-});
